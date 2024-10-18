@@ -1,0 +1,29 @@
+## PROGRAM BANTUAN SUBSIDI UPAH (BSU)
+
+# STUDI KASUS
+BSU adalah singkatan dari Bantuan Subsidi Upah. BSU adalah program bantuan dari pemerintah, khususnya Kementerian Ketenagakerjaan (Kemnaker) kepada pekerja yang pendapatannya terdampak secara signifikan akibat situasi ekonomi, seperti yang terjadi selama pandemi COVID-19.
+
+Program harus menerima input berupa :
+
+Data Pribadi
+1. Nama
+2. Nik
+3. Tempat Tinggal
+4. No handphone
+
+Syarat Kelengkapan
+1. kewarganegaraan
+2. Pekerjaan
+3. Keaktifan BPJS
+4. Gaji/upah paling banyak Rp 3,5 juta.
+
+Kriteria
+1. Harus WNI
+2. Bukan PNS, TNI dan Polri
+3. Peserta aktif program jaminan sosial BPJS Ketenagakerjaan
+4. Gaji harus <= 3500000
+
+Jika warga memenuhi kriteria, maka program akan mencetak nama, nik, tempat tinggal, pekerjaan, no hp, dan hasil bahwa warga tersebut mendapatkan BSU. jika tidak, program akan mencetak pesan yang sesuai
+
+## FLOWCART
+[Integral](naiya.png)
